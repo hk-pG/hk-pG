@@ -1,6 +1,6 @@
 # Hi there 👋 I'm hk-pG
 
-アプリケーション設計、特に長期運用を見据えたアーキテクチャやテスト設計に関心を持ち、日々学習しています。
+社会人プログラマーです。休日に細々と好きなものを作っています。
 
 ## 🚀 Featured Project
 現在、Tauri (React) を使用したアプリケーション開発に注力しています。
@@ -36,5 +36,3 @@
 ## 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hk-pG&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hk-pG&theme=default)
